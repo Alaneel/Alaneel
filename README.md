@@ -70,13 +70,8 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
   &emsp;
 </p>
 
-### 🔥 Streak Stats
-<p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaneel)](https://github.com/anuraghazra/github-readme-stats)</p>
-
-<hr>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfaizanhaidar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadfaizanhaidar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+### 🔥 Git Activeness
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaneel)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaneel)](https://github.com/anuraghazra/github-readme-stats)
+    
 <br><br><br><br><br>
