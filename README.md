@@ -1,5 +1,6 @@
 <!---
 Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
 
 - 👋 Hi, I’m Alan Wang
 - 👀 I’m interested in SOFTWARE DEVELOPING
@@ -13,4 +14,3 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
   <img src="https://img.shields.io/badge/Lives-Pakistan-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Urdu-brightgreen" />
 </p>
---->
