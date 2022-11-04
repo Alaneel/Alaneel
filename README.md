@@ -71,7 +71,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 </p>
 
 ### 🔥 Streak Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaneel)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaneel)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <hr>
 <p align="center">
