@@ -77,6 +77,6 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 <br><br><br><br><br>
 
 -----
-Credits: [Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar)
+Credits: [Alan Wang](https://github.com/Alaneel)
 
-Last Edited on: 05/08/2021
+Last Edited on: 05/11/2022
