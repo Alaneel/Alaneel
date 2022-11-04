@@ -3,6 +3,11 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 --->
 
 <p align="center">
+  <img src="https://assets.gocoderz.xyz/site/wp-content/uploads/2017/02/shutterstock_239157115-460x320.jpg" height="200"/>
+</p>
+<br>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Age-19-blue" />
   <img src="https://img.shields.io/badge/Focus-Software Developing-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Chinese-success" />
