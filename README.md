@@ -9,8 +9,8 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 - 📫 How to reach me alan1270662610@outlook.com
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-WordPress-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Pakistan-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Urdu-brightgreen" />
+  <img src="https://img.shields.io/badge/Age-19-blue" />
+  <img src="https://img.shields.io/badge/Focus-Software Developing-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Chinese-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Chinese-brightgreen" />
 </p>
