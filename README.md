@@ -4,13 +4,13 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  </a>
 </div>
 <br>
 <hr>
 
-<br />
+<br/>
 <div align="center">
   <a href="https://www.codewars.com/dashboard"><img src="https://www.codewars.com/users/Agooseelan/badges/large" alt="Agooseelan Codewars Badge">
 </div>
@@ -29,7 +29,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 <p align="center">
   <em>
     Hello, I am Alan Wang a <b>2026</b> undergraduate from <a href="https://ntu.edu.sg/"> <b>Nanyang Techonological University</b>, Singapore</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developing Beginner</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b> with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop.
+<b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developing Beginner</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b> with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop.
     
 <br>
     
