@@ -8,6 +8,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
        alt="snake" /></a>
 </div>
 <br>
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-19-blue" />
@@ -17,7 +18,6 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 </p>
 <hr>
 
-<br />
 <br />
 <div align="center">
   <img src="https://www.codewars.com/users/Agooseelan/badges/large" alt="Agooseelan Codewars Badge">
