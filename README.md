@@ -12,7 +12,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 
 <br />
 <div align="center">
-  <img src="https://www.codewars.com/users/Agooseelan/badges/large" alt="Agooseelan Codewars Badge">
+  <a href="https://www.codewars.com/dashboard"><img src="https://www.codewars.com/users/Agooseelan/badges/large" alt="Agooseelan Codewars Badge">
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alan Wang </h1>
