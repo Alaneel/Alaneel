@@ -9,6 +9,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 </div>
 <br>
 <br>
+<hr>
 
 <br />
 <div align="center">
