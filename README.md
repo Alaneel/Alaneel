@@ -16,6 +16,13 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Chinese-brightgreen" />
 </p>
 <hr>
+
+<br />
+<br />
+<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge">
+<br />
+<br />
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alan Wang </h1>
 <h3 align="center">Nanyang Technological University | Computer Science Year 1 Student </h3>
 
