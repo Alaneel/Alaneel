@@ -10,13 +10,12 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 <br>
 <hr>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alan Wang </h1>
-
 <br />
 <div align="center">
   <img src="https://www.codewars.com/users/Agooseelan/badges/large" alt="Agooseelan Codewars Badge">
 </div>
-<br />
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alan Wang </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-19-blue" />
@@ -32,7 +31,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
     Hello, I am Alan Wang a <b>2026</b> undergraduate from <a href="https://ntu.edu.sg/"> <b>Nanyang Techonological University</b>, Singapore</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developing Beginner</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b> with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop.
     
-<br><br>
+<br>
     
 <hr>
    
@@ -45,7 +44,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 - 💞️ I’m looking to collaborate on WEB / MOBILE APP DEVELOPING
 - 📫 How to reach me alan1270662610@outlook.com
 
-<br><br><br><br>
+<br><br>
     
 ## 🛠️ My Skills
 
