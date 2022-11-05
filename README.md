@@ -8,8 +8,6 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
        alt="snake" /></a>
 </div>
 
------
-
 <p align="center">
   <img src="https://img.shields.io/badge/Age-19-blue" />
   <img src="https://img.shields.io/badge/Focus-Software Developing-brightgreen" />
