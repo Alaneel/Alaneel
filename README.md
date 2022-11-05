@@ -60,7 +60,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
   </a> 
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Database
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
