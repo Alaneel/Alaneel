@@ -19,7 +19,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 
 <br />
 <br />
-<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge">
+<img src="https://www.codewars.com/users/Agooseelan%20Alpha/badges/large" alt="Agooseelan Alpha Codewars Badge">
 <br />
 <br />
 
