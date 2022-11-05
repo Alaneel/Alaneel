@@ -8,16 +8,15 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
        alt="snake" /></a>
 </div>
 <br>
-<br>
 <hr>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alan Wang </h1>
 
 <br />
 <div align="center">
   <img src="https://www.codewars.com/users/Agooseelan/badges/large" alt="Agooseelan Codewars Badge">
 </div>
 <br />
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alan Wang </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-19-blue" />
