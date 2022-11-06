@@ -58,6 +58,12 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
+  &emsp;
+  <a href="https://www.javascript.com"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
 </p>
 
 ### 👉 Database
@@ -66,9 +72,24 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
- </p>
+</p>
+ 
+### 👉 Web and Mobile App
+<p align="left">
+  &emsp;
+    <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
+  
+</p>
 
- ### 👉 Software & Tools
+### 👉 Software & Tools
  
 <p>
   &emsp;
@@ -85,8 +106,8 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 </p>
 
 ### 🔥 Git Activeness
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alaneel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Alaneel&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alaneel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height="150" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Alaneel&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" height="150" /></p>
     
 <br><br><br><br><br><br>
 
