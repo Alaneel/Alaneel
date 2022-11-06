@@ -125,7 +125,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 
 ### 🔥 Git Activeness
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alaneel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="400"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alaneel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=10" alt="ovi" width="400"/>
 </p>
 
 <br><br><br><br><br><br><br><br><br>
