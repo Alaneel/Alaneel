@@ -10,6 +10,11 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 <br>
 <hr>
 
+<br>
+<div align="center">
+  <a href="https://leetcode.com/Alaneel/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAlaneel&logo=leetcode&logoColor=yellow">
+ </div>
+
 <br/>
 <div align="center">
   <a href="https://www.codewars.com/dashboard"><img src="https://www.codewars.com/users/Agooseelan/badges/large" alt="Agooseelan Codewars Badge">
