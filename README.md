@@ -142,6 +142,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 <span align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31o4m3wtf4uobggyb4ktjvjwrtdm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=0061ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ <br>
 ![](https://komarev.com/ghpvc/?username=Alaneel)
 
 </span>
