@@ -138,6 +138,14 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 <br><br><br><br><br><br><br>
 
 -----
+
+<span align="center">
+
+![](https://komarev.com/ghpvc/?username=Alaneel)
+
+</span>
+
+-----
 Credits: [Alan Wang](https://github.com/Alaneel)
 
-Last Edited on: 11/11/2022
+Last Edited on: 10/2/2023
