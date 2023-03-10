@@ -41,7 +41,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
     
 - 👀 I’m interested in SOFTWARE DEVELOPING
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on WEB / MOBILE APP DEVELOPING
+- 💞️ I’m looking to collaborate on SOFTWARE DEVELOPING / MACHINE LEARNING / DATA SCIENCE
 - 📫 How to reach me WANG1859@e.ntu.edu.sg
 
 <br><br>
