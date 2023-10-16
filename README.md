@@ -18,10 +18,10 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alan Wang &nbsp <a href="https://leetcode.com/Alaneel/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAlaneel&logo=leetcode&logoColor=yellow" height="25"> </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-19-blue" />
+  <img src="https://img.shields.io/badge/Age-20-blue" />
   <img src="https://img.shields.io/badge/Focus-Software Developing-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Chinese-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Chinese-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Chinese%20%26%20French-brightgreen" />
 </p>
 
 <h3 align="center">Nanyang Technological University | Computer Science Year 1 Student </h3>
