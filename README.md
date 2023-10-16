@@ -24,11 +24,11 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Chinese%20%26%20French-brightgreen" />
 </p>
 
-<h3 align="center">Nanyang Technological University | Computer Science Year 1 Student </h3>
+<h3 align="center">Nanyang Technological University | Computer Science Year 2 Student </h3>
 
 <p align="center">
   <em>
-    Hello, I am Alan Wang a <b>2026</b> undergraduate from <a href="https://ntu.edu.sg/"> <b>Nanyang Techonological University</b>, Singapore</a>. <br>
+    Hello, I am Alan Wang a <b>2025</b> undergraduate from <a href="https://ntu.edu.sg/"> <b>Nanyang Techonological University</b>, Singapore</a>. <br>
 <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developing Beginner</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b> with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop.
     
 <br>
