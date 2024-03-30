@@ -49,50 +49,60 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  <a href="https://vuejs.org" target="_blank"> 
+   <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  <a href="https://react.dev" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </a> 
   &emsp;
-  <a href="https://www.javascript.com">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  <a href="https://www.electronjs.org">
+    <img alt="JavaScript" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white">
   </a>
   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  <a href="https://reactnative.dev" target="_blank"> 
+    <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   </a>
+  &emsp;
 </p>
 
-### 👉 Database
+### 👉 Backend Development
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/">
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white">
+    <a href="https://www.djangoproject.com">
+      <img alt="Django" src ="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   </a>
   &emsp;
-    <a href="https://www.sqlite.org/">
-      <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
+    <a href="https://spring.io">
+      <img alt="Spring" src ="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)"/>
   </a>
+  &emsp;
+    <a href="https://www.mysql.com/">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+  &emsp;
 </p>
  
 ### 👉 Web and Mobile App
 <p align="left">
   &emsp;
     <a href="https://www.python.org">
-      <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
-  
+  &emsp;
+  <a href="https://www.swift.org" target="_blank"> 
+    <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+  </a>
+  &emsp;
 </p>
 
 ### 👉 Software & Tools
@@ -100,23 +110,19 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 <p>
   &emsp;
     <a href="https://git-scm.com">
-      <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+      <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   </a>
   &emsp;
     <a href="https://www.linux.org">
-      <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+      <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </a>
   &emsp;
-    <a href="https://www.google.com/sheets/about/">
-      <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white">
+    <a href="https://ubuntu.com">
+      <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   </a>
   &emsp;
-    <a href="https://code.visualstudio.com">
-      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  </a>
-  &emsp;
-    <a href="https://stackoverflow.com">
-      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+    <a href="https://www.docker.com">
+      <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   </a>
   &emsp;
 </p>
