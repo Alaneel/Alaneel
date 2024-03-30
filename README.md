@@ -83,8 +83,21 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
   </a>
   &emsp;
 </p>
- 
+
 ### 👉 Web and Mobile App
+<p align="left">
+  &emsp;
+    <a href="https://developer.android.com/studio">
+      <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  </a>
+  &emsp; 
+  <a href="https://developer.apple.com/xcode/" target="_blank"> 
+    <img alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
+  </a> 
+  &emsp;
+</p>
+ 
+### 👉 Programming Languages
 <p align="left">
   &emsp;
     <a href="https://www.python.org">
