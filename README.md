@@ -19,7 +19,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
   <img src="https://img.shields.io/badge/Age-20-blue" />
   <img src="https://img.shields.io/badge/Focus-Software Developing-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Chinese-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Chinese%20%26%20French-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Chinese%20%26%20Japanese%20%26%20French-brightgreen" />
 </p>
 
 <h3 align="center">Nanyang Technological University | Computer Science Year 2 Student </h3>
