@@ -3,7 +3,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 --->
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  <img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 <br>
 <hr>
@@ -127,7 +127,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alaneel&langs_count=6&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="400"/>
 </a>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <a href="https://github.com/Alaneel/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Alaneel&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width ="400"/>
@@ -148,4 +148,4 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 -----
 Credits: [Alan Wang](https://github.com/Alaneel)
 
-Last Edited on: 16/10/2023
+Last Edited on: 30/03/2012
