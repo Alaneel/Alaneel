@@ -26,8 +26,8 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 
 <p align="center">
   <em>
-    Hello, I am Alan Wang a <b>2025</b> undergraduate from <a href="https://ntu.edu.sg/"> <b>Nanyang Techonological University</b>, Singapore</a>. <br>
-<b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developing Beginner</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b> with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop.
+    Hello, I am Alan Wang a <b>2026</b> undergraduate from <a href="https://ntu.edu.sg/"> <b>Nanyang Techonological University</b>, Singapore</a>. <br>
+<b>a software developing</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>data engineering aspirant</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b> with <b>data</b> and always looking to find new insights from huge source of <b> data stream </b>.
     
 <br>
     
@@ -37,14 +37,31 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
     
-- 👀 I’m interested in SOFTWARE DEVELOPING
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on SOFTWARE DEVELOPING / MACHINE LEARNING / DATA SCIENCE
+- 👀 I’m interested in DATA ENGINEERING and SOFTWARE DEVELOPING
+- 🌱 I’m currently learning HADOOP
+- 💞️ I’m looking to collaborate on DATA ENGINEERING / SOFTWARE DEVELOPMENT
 - 📫 How to reach me WANG1859@e.ntu.edu.sg
 
 <br><br>
     
 ## 🛠️ My Skills
+
+### 👉 Backend Development
+<p align="left">
+  &emsp;
+    <a href="https://www.djangoproject.com">
+      <img alt="Django" src ="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  </a>
+  &emsp;
+    <a href="https://spring.io">
+      <img alt="Spring" src ="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)"/>
+  </a>
+  &emsp;
+    <a href="https://www.mysql.com/">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+  &emsp;
+</p>
 
 ### 👉 Frontend Development
 <p align="left"> 
@@ -63,23 +80,6 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
   &emsp;
   <a href="https://reactnative.dev" target="_blank"> 
     <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  </a>
-  &emsp;
-</p>
-
-### 👉 Backend Development
-<p align="left">
-  &emsp;
-    <a href="https://www.djangoproject.com">
-      <img alt="Django" src ="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  </a>
-  &emsp;
-    <a href="https://spring.io">
-      <img alt="Spring" src ="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)"/>
-  </a>
-  &emsp;
-    <a href="https://www.mysql.com/">
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
   &emsp;
 </p>
@@ -167,4 +167,4 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 -----
 Credits: [Alan Wang](https://github.com/Alaneel)
 
-Last Edited on: 30/03/2012
+Last Edited on: 01/05/2024
