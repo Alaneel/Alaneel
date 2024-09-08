@@ -38,7 +38,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
     
 - 👀 I’m interested in DATA ENGINEERING and SOFTWARE DEVELOPING
-- 🌱 I’m currently learning HADOOP
+- 🌱 I’m currently learning APACHE LINK
 - 💞️ I’m looking to collaborate on DATA ENGINEERING / SOFTWARE DEVELOPMENT
 - 📫 How to reach me WANG1859@e.ntu.edu.sg
 
