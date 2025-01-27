@@ -22,7 +22,7 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Chinese%20%26%20Japanese%20%26%20French-brightgreen" />
 </p>
 
-<h3 align="center">Nanyang Technological University | Computer Science Year 2 Student </h3>
+<h3 align="center">Large Model Platform Intern @ByteDance | ex-Binance | Computer Science @ Nanyang Technological University </h3>
 
 <p align="center">
   <em>
@@ -167,4 +167,4 @@ Alaneel/Alaneel is a ✨ special ✨ repository because its `README.md` (this fi
 -----
 Credits: [Alan Wang](https://github.com/Alaneel)
 
-Last Edited on: 01/05/2024
+Last Edited on: 29/01/2025
