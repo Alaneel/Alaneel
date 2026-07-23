@@ -46,21 +46,6 @@ What I optimize for: correctness · throughput · operability · clear ownership
 - **Gold Award** — WorldQuant Challenge
 - Interested in high-performance services, real-time analytics, distributed systems, and ML infrastructure
 
-## GitHub at a glance
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Alaneel&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Alaneel&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-    <img height="165" alt="Alan's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Alaneel&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaneel&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaneel&layout=compact&hide_border=true&theme=default&langs_count=6" />
-    <img height="165" alt="Alan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaneel&layout=compact&hide_border=true&theme=default&langs_count=6" />
-  </picture>
-</div>
-
 <div align="center">
 
 ### Let's build something dependable.
