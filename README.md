@@ -52,6 +52,4 @@ What I optimize for: correctness · throughput · operability · clear ownership
 
 [Email](mailto:WANG1859@e.ntu.edu.sg) · [LinkedIn](https://www.linkedin.com/in/yangming-wang/) · [LeetCode](https://leetcode.com/Alaneel/) · [Codewars](https://www.codewars.com/users/Agooseelan)
 
-![Profile views](https://komarev.com/ghpvc/?username=Alaneel&style=flat-square&color=555555&label=Profile+views)
-
 </div>
