@@ -1,56 +1,40 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alaneel/Alaneel/main/assets/profile-hero-dark-compact.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alaneel/Alaneel/main/assets/profile-hero-light-compact.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alaneel/Alaneel/main/assets/profile-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alaneel/Alaneel/main/assets/profile-hero-light.svg">
+  <img alt="Alan Wang — Backend and distributed systems. Correctness, recovery, and reproducible evidence." src="https://raw.githubusercontent.com/Alaneel/Alaneel/main/assets/profile-hero-light.svg" width="100%">
+</picture>
 
-# Alan Wang
+Computer Science graduate from **Nanyang Technological University**, Singapore. I build backend and distributed systems, exploring how they behave under retries, failures, and recovery, with a growing focus on applied AI.
 
-### Backend · Data Infrastructure · AI Systems
+[LinkedIn](https://www.linkedin.com/in/yangming-wang/) · [Email](mailto:WANG1859@e.ntu.edu.sg) · [LeetCode](https://leetcode.com/Alaneel/)
 
-I build reliable backend and AI systems that turn high-volume data into useful, dependable products.
+## Selected work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yangming-wang/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:WANG1859@e.ntu.edu.sg)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Alaneel-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/Alaneel/)
+| Project | Engineering focus |
+| :--- | :--- |
+| **[Redis Reliability Lab](https://github.com/Alaneel/redis-reliability-lab)**<br>Go · Redis Cluster · Docker | Reproducible fault injection, failover, and persistence experiments. Measures service recovery separately from acknowledged-write survival, with inspectable reports and explicit limitations.<br>[Experiments & evidence](https://github.com/Alaneel/redis-reliability-lab#what-the-experiments-expose) |
+| **[Video Toolkit](https://github.com/Alaneel/video-toolkit)**<br>Rust · egui · FFmpeg | A desktop app and CLI for local media workflows, with reusable profiles and parallel batch processing. Integration tests inspect actual media outputs.<br>[Download & release notes](https://github.com/Alaneel/video-toolkit/releases/tag/v2.1.0) |
 
-</div>
+**Also in development:** Transaction Processing Platform — Java, PostgreSQL, and Kafka with a double-entry ledger and reliable event processing; **OpsPilot** — durable incident workflows with evidence, approvals, and recovery checks. Both are being prepared for public release.
 
-## Hello
+## Engineering approach
 
-I'm a Computer Science graduate from **Nanyang Technological University** in Singapore, focused on backend engineering, data infrastructure, and applied AI. I enjoy working where models meet production systems: distributed services, streaming pipelines, retrieval systems, evaluation workflows, and the tooling that keeps them observable in production.
+- **Correctness first.** Define invariants and make committed state inspectable.
+- **Failure is part of the design.** Account for retries, partial completion, and recovery.
+- **Evidence beside claims.** Keep methods, source data, and limitations next to results.
 
-My experience spans **ML systems at ByteDance** and **risk data infrastructure at Binance**. I am especially interested in building LLM-powered products on solid engineering foundations—not just demos, but systems with measurable quality, reliable data flows, and clear operational boundaries.
+## Toolkit
 
-```text
-What I optimize for: correctness · throughput · operability · clear ownership
-```
+| Area | Tools I use |
+| :--- | :--- |
+| Backend & data | Java · Go · Python · SQL · PostgreSQL · Redis · Kafka |
+| Applications & AI | TypeScript · Rust · LangGraph · retrieval · workflow evaluation |
+| Platform & delivery | Docker · Kubernetes · Linux · GitHub Actions · Prometheus · Grafana |
 
-## Experience
+**Recognition:** 1st Place — Bank of America Code to Connect 2024 · Gold Award — WorldQuant Challenge.
 
-| | Focus |
-|---|---|
-| **ByteDance** · Backend Engineering, ML Systems | Backend services and infrastructure supporting machine-learning workflows |
-| **Binance** · Data Engineering, Risk Data Platform | Data pipelines and analytical infrastructure for risk use cases |
-| **NTU Singapore** · Computer Science | Foundations in software engineering, systems, algorithms, and data |
-
-## Engineering toolkit
-
-| Area | Technologies |
-|---|---|
-| **Languages** | Go · Java · Python · Scala · SQL |
-| **AI Engineering** | LLM applications · RAG · Agentic workflows · Evaluation · Model serving |
-| **Backend** | Spring Boot · Hertz · gRPC · Thrift · REST |
-| **Data & Streaming** | Kafka · Flink · Spark · Hive · Airflow |
-| **Storage & Analytics** | MySQL · StarRocks |
-| **Platform** | Docker · Kubernetes · Linux · Prometheus · Grafana |
-
-## Highlights
-
-- **1st Place** — Bank of America Code to Connect 2024
-- **Gold Award** — WorldQuant Challenge
-- Interested in reliable AI applications, high-performance services, real-time analytics, and ML infrastructure
-
-<div align="center">
-
-### Let's build something dependable.
-
-[Email](mailto:WANG1859@e.ntu.edu.sg) · [LinkedIn](https://www.linkedin.com/in/yangming-wang/) · [LeetCode](https://leetcode.com/Alaneel/) · [Codewars](https://www.codewars.com/users/Agooseelan)
-
-</div>
+<!-- Publication candidate, 2026-10-14. Publish all four native SVG assets together
+     with this README. TPP and OpsPilot deliberately have no repository links
+     until their public release is approved and verified. -->
