@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="276" viewBox="0 0 1200 276" role="img" aria-labelledby="title desc">
+<title id="title">Alan Wang — Backend and distributed systems</title>
+<desc id="desc">Engineering portfolio focused on correctness, failure recovery, and reproducible experiments. A small state, events, recovery motif appears on the right.</desc>
+<rect x="1" y="1" width="1198" height="274" rx="14" fill="#111925" stroke="#304057"/>
+<path d="M52 44h32" stroke="#85a8ff" stroke-width="4" stroke-linecap="round"/>
+<text x="98" y="49" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2.1" fill="#afbdd3">ENGINEERING PORTFOLIO</text>
+<text x="52" y="124" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.6" fill="#edf3ff">Alan Wang</text>
+<text x="54" y="169" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="500" fill="#edf3ff">Backend &amp; distributed systems</text>
+<text x="54" y="215" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#afbdd3">Correctness. Recovery. Reproducible evidence.</text>
+<path d="M805 42v192" stroke="#304057"/>
+<rect x="853" y="38" width="295" height="54" rx="8" fill="#172335" stroke="#304057"/>
+<rect x="869" y="55" width="20" height="20" rx="5" fill="#202f49"/>
+<circle cx="879" cy="65" r="3.3" fill="#85a8ff"/>
+<text x="906" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4" fill="#edf3ff">STATE</text>
+<text x="906" y="81" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#afbdd3">make it correct</text>
+<path d="M1000 92v13" stroke="#85a8ff" stroke-width="1.5"/>
+<rect x="853" y="105" width="295" height="54" rx="8" fill="#172335" stroke="#304057"/>
+<rect x="869" y="122" width="20" height="20" rx="5" fill="#202f49"/>
+<circle cx="879" cy="132" r="3.3" fill="#85a8ff"/>
+<text x="906" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4" fill="#edf3ff">EVENTS</text>
+<text x="906" y="148" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#afbdd3">make it observable</text>
+<path d="M1000 159v13" stroke="#85a8ff" stroke-width="1.5"/>
+<rect x="853" y="172" width="295" height="54" rx="8" fill="#172335" stroke="#304057"/>
+<rect x="869" y="189" width="20" height="20" rx="5" fill="#202f49"/>
+<circle cx="879" cy="199" r="3.3" fill="#85a8ff"/>
+<text x="906" y="197" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4" fill="#edf3ff">RECOVERY</text>
+<text x="906" y="215" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#afbdd3">make it repeatable</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="244" viewBox="0 0 600 244" role="img" aria-labelledby="title desc">
+<title id="title">Alan Wang — Backend and distributed systems</title>
+<desc id="desc">Engineering portfolio focused on correctness, recovery, and reproducible evidence.</desc>
+<rect x="1" y="1" width="598" height="242" rx="12" fill="#111925" stroke="#304057"/>
+<path d="M30 38h24" stroke="#85a8ff" stroke-width="3" stroke-linecap="round"/>
+<text x="70" y="43" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.6" fill="#afbdd3">ENGINEERING PORTFOLIO</text>
+<text x="28" y="112" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.4" fill="#edf3ff">Alan Wang</text>
+<text x="30" y="155" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#edf3ff">Backend &amp; distributed systems</text>
+<text x="30" y="202" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#afbdd3">Correctness. Recovery. Reproducible evidence.</text>
+</svg>
