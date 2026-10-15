@@ -1,40 +1,47 @@
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alaneel/Alaneel/main/assets/profile-hero-dark-compact.svg">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alaneel/Alaneel/main/assets/profile-hero-light-compact.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alaneel/Alaneel/main/assets/profile-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alaneel/Alaneel/main/assets/profile-hero-light.svg">
-  <img alt="Alan Wang — Backend and distributed systems. Correctness, recovery, and reproducible evidence." src="https://raw.githubusercontent.com/Alaneel/Alaneel/main/assets/profile-hero-light.svg" width="100%">
-</picture>
+# Alan Wang
 
-Computer Science graduate from **Nanyang Technological University**, Singapore. I build backend and distributed systems, exploring how they behave under retries, failures, and recovery, with a growing focus on applied AI.
+**AI / Agentic Systems Engineering · Backend / Distributed Infrastructure**
 
-[LinkedIn](https://www.linkedin.com/in/yangming-wang/) · [Email](mailto:WANG1859@e.ntu.edu.sg) · [LeetCode](https://leetcode.com/Alaneel/)
+I’m interested in the point where a model’s answer becomes a system’s action: what it can observe, what it may change, and how we know the result is correct.
 
-## Selected work
+Computer Science graduate from **Nanyang Technological University**, based in Singapore. My experience spans **RAG and LLM applications at Binance**, **backend services supporting ML workflows at ByteDance**, and now **Redis / KV infrastructure at Xiaomi**.
 
-| Project | Engineering focus |
-| :--- | :--- |
-| **[Redis Reliability Lab](https://github.com/Alaneel/redis-reliability-lab)**<br>Go · Redis Cluster · Docker | Reproducible fault injection, failover, and persistence experiments. Measures service recovery separately from acknowledged-write survival, with inspectable reports and explicit limitations.<br>[Experiments & evidence](https://github.com/Alaneel/redis-reliability-lab#what-the-experiments-expose) |
-| **[Video Toolkit](https://github.com/Alaneel/video-toolkit)**<br>Rust · egui · FFmpeg | A desktop app and CLI for local media workflows, with reusable profiles and parallel batch processing. Integration tests inspect actual media outputs.<br>[Download & release notes](https://github.com/Alaneel/video-toolkit/releases/tag/v2.1.0) |
+[LinkedIn](https://www.linkedin.com/in/yangming-wang/) · [Email](mailto:agooseelan@gmail.com)
 
-**Also in development:** Transaction Processing Platform — Java, PostgreSQL, and Kafka with a double-entry ledger and reliable event processing; **OpsPilot** — durable incident workflows with evidence, approvals, and recovery checks. Both are being prepared for public release.
+## Engineering projects
 
-## Engineering approach
+### OpsPilot — AI Production Incident Copilot
+**LangGraph · MCP · BM25 · Signed approvals**
 
-- **Correctness first.** Define invariants and make committed state inspectable.
-- **Failure is part of the design.** Account for retries, partial completion, and recovery.
-- **Evidence beside claims.** Keep methods, source data, and limitations next to results.
+An incident copilot with a compiled stateful workflow, MCP HTTP tools, a BM25 knowledge index, signed approval verification, and persistent audit records. Its PostgreSQL path uses durable checkpoints; an in-memory fallback is separate. Implemented locally, with public release preparation in progress.
 
-## Toolkit
+An actual-model smoke run with synthetic telemetry and an in-memory graph stopped at human approval. This is separate from deterministic workflow tests and does not establish production RCA quality. Public source and evidence links are not yet available.
 
-| Area | Tools I use |
-| :--- | :--- |
-| Backend & data | Java · Go · Python · SQL · PostgreSQL · Redis · Kafka |
-| Applications & AI | TypeScript · Rust · LangGraph · retrieval · workflow evaluation |
-| Platform & delivery | Docker · Kubernetes · Linux · GitHub Actions · Prometheus · Grafana |
+### Transaction Processing Platform
+**Java · PostgreSQL · Kafka**
 
-**Recognition:** 1st Place — Bank of America Code to Connect 2024 · Gold Award — WorldQuant Challenge.
+A ledger with exact integer balances, durable idempotency, a fenced transactional outbox, and idempotent consumer effects, with tests for concurrency, crashes, and outages. Implemented locally, with public release preparation in progress.
 
-<!-- Publication candidate, 2026-10-14. Publish all four native SVG assets together
-     with this README. TPP and OpsPilot deliberately have no repository links
-     until their public release is approved and verified. -->
+Public source and evidence links are not yet available. Local benchmark studies do not establish production capacity or exactly-once messaging.
+
+### [Redis Reliability Lab](https://github.com/Alaneel/redis-reliability-lab)
+**Go · Redis Cluster · Docker**
+
+A fault laboratory that measures service recovery, restored redundancy, and acknowledged-write survival separately. Its offline diagnostic extension cites recorded observations, preserves uncertainty, and produces read-only remediation plans.
+
+[Code](https://github.com/Alaneel/redis-reliability-lab/tree/main/internal) · [Run a fault experiment](https://github.com/Alaneel/redis-reliability-lab/blob/main/docs/running-experiments.md) · [Case studies](https://github.com/Alaneel/redis-reliability-lab/blob/main/docs/aiops-case-studies.md) · [Evaluation & limits](https://github.com/Alaneel/redis-reliability-lab/blob/main/docs/aiops-evaluation.md) · [Tests & execution evidence](https://github.com/Alaneel/redis-reliability-lab/blob/main/docs/phase4-validation.md)
+
+The diagnosis engine is deterministic and has no LLM integration. Results come from a small, single-host laboratory; they do not establish production RCA accuracy or power-loss durability.
+
+## Where I’ve worked
+
+- **Binance** — RAG / LLM application work with Dify and Lucene.
+- **ByteDance** — backend services supporting ML workflows.
+- **Xiaomi** — Redis / KV infrastructure.
+
+## Beyond the shortlist
+
+[Video Toolkit](https://github.com/Alaneel/video-toolkit) — a Rust desktop app and CLI for local media workflows. [Release packages](https://github.com/Alaneel/video-toolkit/releases/tag/v2.1.0).
+
+I like projects with inspectable state, reproducible failures, and evidence that survives a closer look.
+
