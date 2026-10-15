@@ -10,12 +10,12 @@ Computer Science graduate from **Nanyang Technological University**, based in Si
 
 ## Engineering projects
 
-### OpsPilot — AI Production Incident Copilot
+### [OpsPilot — AI Production Incident Copilot](https://github.com/Alaneel/ai-production-incident-copilot)
 **LangGraph · MCP · BM25 · Signed approvals**
 
-An incident copilot with a compiled stateful workflow, MCP HTTP tools, a BM25 knowledge index, signed approval verification, and persistent audit records. Its PostgreSQL path uses durable checkpoints; an in-memory fallback is separate. Implemented locally, with public release preparation in progress.
+An incident copilot with a compiled stateful workflow, MCP HTTP tools, a BM25 knowledge index, signed approval verification, and persistent audit records. Its PostgreSQL path uses durable checkpoints; an in-memory fallback is separate. Published as a source-only preview; the current Kubernetes matrix and production readiness remain unverified.
 
-An actual-model smoke run with synthetic telemetry and an in-memory graph stopped at human approval. This is separate from deterministic workflow tests and does not establish production RCA quality. Public source and evidence links are not yet available.
+An actual-model smoke run with synthetic telemetry and an in-memory graph stopped at human approval. This is separate from deterministic workflow tests and does not establish production RCA quality. [Source](https://github.com/Alaneel/ai-production-incident-copilot) · [Offline demo](https://github.com/Alaneel/ai-production-incident-copilot/blob/main/docs/demo.md) · [Evidence and limits](https://github.com/Alaneel/ai-production-incident-copilot/blob/main/docs/evidence.md) · [Publication manifest](https://github.com/Alaneel/ai-production-incident-copilot/blob/main/PUBLICATION-MANIFEST.json)
 
 ### Transaction Processing Platform
 **Java · PostgreSQL · Kafka**
