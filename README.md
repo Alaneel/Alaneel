@@ -29,11 +29,11 @@ Computer Science graduate from **Nanyang Technological University**, based in Si
 
 `Rust` · `egui` · `FFmpeg` · `OpenAI Responses`
 
-A native desktop agent that turns timestamped visual observations into a reviewable clip plan. Typed tools, exact-revision approval and recoverable FFmpeg stages connect model proposals to real media execution—without giving the model authority to approve or export.
+A native desktop agent that turns timestamped visual observations into a reviewable clip plan. Optional bounded feedback renders the cut, reviews actual preview images and proposes evidence-linked revisions. Typed tools, durable budgets, explicit candidate adoption and exact-revision approval keep model proposals separate from human authority to approve or export.
 
-**Experimental source preview.** A real GPT-6 Luna draft reached a verified, playable 20-second export after the user authorized removal of its first clip; the development agent applied the edit and exact-revision approval in the native UI. Formal human semantic evaluation remains pending; public Agent binaries remain gated. [v2.1.0](https://github.com/Alaneel/video-toolkit/releases/tag/v2.1.0) is the existing Toolkit only.
+**[Source preview r3](https://github.com/Alaneel/video-toolkit/releases/tag/agent-source-preview-20261018-r3).** An earlier real GPT-6 Luna draft reached a verified, playable 20-second export after the user authorized removal of its first clip. Five further feedback-review calls across two synthetic runs exercised real render → revise → re-render, but neither reached model acceptance; those failures are preserved. Formal human semantic evaluation remains pending; public Agent binaries remain gated. [v2.1.0](https://github.com/Alaneel/video-toolkit/releases/tag/v2.1.0) is the existing Toolkit only.
 
-[20-second output](https://raw.githubusercontent.com/Alaneel/video-toolkit/master/assets/video-agent/luna-human-edited-20s.mp4) · [Interface & media credits](https://github.com/Alaneel/video-toolkit#video-agent) · [Evidence & limits](https://github.com/Alaneel/video-toolkit/blob/master/docs/video-agent-evidence.json) · [Evaluation status](https://github.com/Alaneel/video-toolkit/blob/master/evals/video-agent/results/status.json)
+[20-second output](https://raw.githubusercontent.com/Alaneel/video-toolkit/master/assets/video-agent/luna-human-edited-20s.mp4) · [Interface & media credits](https://github.com/Alaneel/video-toolkit#video-agent) · [Export evidence](https://github.com/Alaneel/video-toolkit/blob/master/docs/video-agent-evidence.json) · [Feedback evidence](https://github.com/Alaneel/video-toolkit/blob/master/docs/smart-feedback-evidence.json) · [Evaluation status](https://github.com/Alaneel/video-toolkit/blob/master/evals/video-agent/results/status.json)
 
 ### [OpsPilot · AI Production Incident Copilot](https://github.com/Alaneel/ai-production-incident-copilot)
 
