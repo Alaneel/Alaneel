@@ -1,47 +1,74 @@
+<!-- Public profile facts preserved from Alaneel/Alaneel at dfa8bca0731c8876bc40d1bc73e8738e4d51f4d8. -->
+
 # Alan Wang
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alaneel/video-toolkit/master/assets/portfolio/profile-dark.svg">
+  <img alt="AI and systems engineering — typed tools, durable state, inspectable evidence" src="https://raw.githubusercontent.com/Alaneel/video-toolkit/master/assets/portfolio/profile-light.svg" width="1200">
+</picture>
 
 **AI / Agentic Systems Engineering · Backend / Distributed Infrastructure**
 
-I’m interested in the point where a model’s answer becomes a system’s action: what it can observe, what it may change, and how we know the result is correct.
+I build around the point where a model's answer becomes a system's action: what it can observe, what it may change, and how we verify the result.
 
-Computer Science graduate from **Nanyang Technological University**, based in Singapore. My experience spans **RAG and LLM applications at Binance**, **backend services supporting ML workflows at ByteDance**, and now **Redis / KV infrastructure at Xiaomi**.
+Computer Science graduate from **Nanyang Technological University**, based in Singapore. My experience spans **RAG and LLM applications at Binance**, **backend services supporting ML workflows at ByteDance**, and **Redis / KV infrastructure at Xiaomi**.
 
 [LinkedIn](https://www.linkedin.com/in/yangming-wang/) · [Email](mailto:agooseelan@gmail.com)
 
-## Engineering projects
+## What connects my work
 
-### [OpsPilot — AI Production Incident Copilot](https://github.com/Alaneel/ai-production-incident-copilot)
-**LangGraph · MCP · BM25 · Signed approvals**
+| AI / Agentic systems | Backend / Distributed infrastructure |
+| --- | --- |
+| Typed tools and explicit authority boundaries | Idempotency, fencing and durable state |
+| Evidence-linked proposals and human approval | Crash recovery and failure injection |
+| Evaluation that keeps failures visible | Inspectable invariants and reproducible experiments |
 
-An incident copilot with a compiled stateful workflow, MCP HTTP tools, a BM25 knowledge index, signed approval verification, and persistent audit records. Its PostgreSQL path uses durable checkpoints; an in-memory fallback is separate. Published as a source-only preview; the current Kubernetes matrix and production readiness remain unverified.
+## Selected systems
 
-An actual-model smoke run with synthetic telemetry and an in-memory graph stopped at human approval. This is separate from deterministic workflow tests and does not establish production RCA quality. [Source](https://github.com/Alaneel/ai-production-incident-copilot) · [Offline demo](https://github.com/Alaneel/ai-production-incident-copilot/blob/main/docs/demo.md) · [Evidence and limits](https://github.com/Alaneel/ai-production-incident-copilot/blob/main/docs/evidence.md) · [Publication manifest](https://github.com/Alaneel/ai-production-incident-copilot/blob/main/PUBLICATION-MANIFEST.json)
+### [Video Agent · reviewable video rough cuts](https://github.com/Alaneel/video-toolkit)
+
+`Rust` · `egui` · `FFmpeg` · `OpenAI Responses`
+
+A native desktop agent that turns timestamped visual observations into a reviewable clip plan. Typed tools, exact-revision approval and recoverable FFmpeg stages connect model proposals to real media execution—without giving the model authority to approve or export.
+
+**Experimental source preview.** GPT-6 Luna has produced a structurally validated draft after requesting additional observations; user-directed editing/export and semantic evaluation are still pending. Native manual exports are separate evidence. Public Agent binaries remain gated; [v2.1.0](https://github.com/Alaneel/video-toolkit/releases/tag/v2.1.0) is the existing Toolkit only.
+
+[Native interface & source](https://github.com/Alaneel/video-toolkit) · [Evidence & limits](https://github.com/Alaneel/video-toolkit/blob/master/docs/video-agent-evidence.json) · [Evaluation status](https://github.com/Alaneel/video-toolkit/blob/master/evals/video-agent/results/status.json)
+
+### [OpsPilot · AI Production Incident Copilot](https://github.com/Alaneel/ai-production-incident-copilot)
+
+`LangGraph` · `MCP` · `BM25` · `Signed approvals`
+
+An incident copilot with a compiled stateful workflow, MCP HTTP tools, a BM25 knowledge index, signed approvals and persistent audit records. The PostgreSQL path uses durable checkpoints; the in-memory fallback is separate.
+
+**Source-only preview.** An actual-model smoke run with synthetic telemetry and an in-memory graph stopped at human approval. It does not establish production RCA quality; the current Kubernetes matrix and production readiness remain unverified.
+
+[Offline demo](https://github.com/Alaneel/ai-production-incident-copilot/blob/main/docs/demo.md) · [Evidence & limits](https://github.com/Alaneel/ai-production-incident-copilot/blob/main/docs/evidence.md) · [Publication manifest](https://github.com/Alaneel/ai-production-incident-copilot/blob/main/PUBLICATION-MANIFEST.json)
 
 ### Transaction Processing Platform
-**Java · PostgreSQL · Kafka**
 
-A ledger with exact integer balances, durable idempotency, a fenced transactional outbox, and idempotent consumer effects, with tests for concurrency, crashes, and outages. Implemented locally, with public release preparation in progress.
+`Java` · `PostgreSQL` · `Kafka`
 
-Public source and evidence links are not yet available. Local benchmark studies do not establish production capacity or exactly-once messaging.
+A ledger with exact integer balances, durable idempotency, a fenced transactional outbox and idempotent consumer effects. Tests cover concurrency, crashes and outages.
+
+**Implemented locally; public release preparation is in progress.** Public source and evidence links are not yet available. Local benchmarks do not establish production capacity or exactly-once messaging.
 
 ### [Redis Reliability Lab](https://github.com/Alaneel/redis-reliability-lab)
-**Go · Redis Cluster · Docker**
 
-A fault laboratory that measures service recovery, restored redundancy, and acknowledged-write survival separately. Its offline diagnostic extension cites recorded observations, preserves uncertainty, and produces read-only remediation plans.
+`Go` · `Redis Cluster` · `Docker`
 
-[Code](https://github.com/Alaneel/redis-reliability-lab/tree/main/internal) · [Run a fault experiment](https://github.com/Alaneel/redis-reliability-lab/blob/main/docs/running-experiments.md) · [Case studies](https://github.com/Alaneel/redis-reliability-lab/blob/main/docs/aiops-case-studies.md) · [Evaluation & limits](https://github.com/Alaneel/redis-reliability-lab/blob/main/docs/aiops-evaluation.md) · [Tests & execution evidence](https://github.com/Alaneel/redis-reliability-lab/blob/main/docs/phase4-validation.md)
+A fault laboratory that separates service recovery, restored redundancy and acknowledged-write survival. A deterministic, read-only diagnostic extension cites recorded observations, preserves uncertainty and proposes remediation plans.
 
-The diagnosis engine is deterministic and has no LLM integration. Results come from a small, single-host laboratory; they do not establish production RCA accuracy or power-loss durability.
+**Public lab, not a production reliability claim.** The diagnosis engine has no LLM integration. Results come from a small, single-host setup and do not establish production RCA accuracy or power-loss durability.
 
-## Where I’ve worked
+[Fault experiments](https://github.com/Alaneel/redis-reliability-lab/blob/main/docs/running-experiments.md) · [Case studies](https://github.com/Alaneel/redis-reliability-lab/blob/main/docs/aiops-case-studies.md) · [Evaluation & limits](https://github.com/Alaneel/redis-reliability-lab/blob/main/docs/aiops-evaluation.md) · [Tests & evidence](https://github.com/Alaneel/redis-reliability-lab/blob/main/docs/phase4-validation.md)
 
-- **Binance** — RAG / LLM application work with Dify and Lucene.
+## Experience
+
+- **Binance** — RAG / LLM applications with Dify and Lucene.
 - **ByteDance** — backend services supporting ML workflows.
 - **Xiaomi** — Redis / KV infrastructure.
 
-## Beyond the shortlist
+---
 
-[Video Toolkit](https://github.com/Alaneel/video-toolkit) — a Rust desktop app and CLI for local media workflows. [Release packages](https://github.com/Alaneel/video-toolkit/releases/tag/v2.1.0).
-
-I like projects with inspectable state, reproducible failures, and evidence that survives a closer look.
-
+I like systems with inspectable state, reproducible failures, and evidence that survives a closer look.
